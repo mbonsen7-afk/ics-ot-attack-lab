@@ -7,7 +7,7 @@ background and PLC programming experience, applying that industrial systems know
 to understand real-world OT security risks.
 
 ## Video Walkthrough
-🎥 Watch the walkthrough on Loom HERE:
+🎥 Watch the walkthrough on Loom HERE:https://www.loom.com/share/3a88a7725bf14337b7ee2b206909a1bc
 ## Objective
 Demonstrate how an attacker could exploit the lack of authentication in the Modbus 
 protocol to gain unauthorized read/write access to a simulated Programmable Logic 
